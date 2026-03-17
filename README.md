@@ -73,16 +73,16 @@ Queue Observer → ML Prediction → Forecasting → Multi-Agent Decisions → A
 
 ## 🗂️ Project Structure
 
-QueueMindAI/
-│
-├── backend/ # Core decision engine
-├── agents/ # AI agents (optimization, routing, etc.)
-├── tools/ # Prediction & observation tools
-├── models/ # ML model training & saved model
-├── data/ # Dataset
-├── api/ # FastAPI server
-├── frontend/ # React dashboard
-└── README.md
+**QueueMindAI/**
+
+- **backend/** → Core decision engine  
+- **agents/** → AI agents (optimization, routing, etc.)  
+- **tools/** → Prediction & observation tools  
+- **models/** → ML model training & saved model  
+- **data/** → Dataset  
+- **api/** → FastAPI server  
+- **frontend/** → React dashboard  
+- **README.md** → Project documentation  
 
 ## 🧰 Tech Stack
 
